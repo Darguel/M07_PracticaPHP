@@ -45,7 +45,7 @@
                 El seu email és: <?php echo $email ?>
             </li>
             <li>
-                Treballa: <?php if($trabaja) echo 'Si'; else echo 'No' ?>
+                Treballa: <?php echo $trabaja ? 'Si' : 'No' ?>
             </li>
             <li>
                 I medeix: <?php echo $altura ?>
