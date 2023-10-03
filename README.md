@@ -13,3 +13,8 @@
  - alçada: 1,67
 
 ### Cada un dels atributs serà un variable on es guardarà la informació de la persona que posteriorment s’haurà de mostrar com una llista en HTML, tal i com es mostra a la següent captura de pantalla:
+
+
+## Segunda Practica
+
+### Tenemos un archivo p2.php con 2 listas, una de un restaurante y otra de un hotel, donde nos indicara si estan llenas, vacias, o cuantos ocupantes
